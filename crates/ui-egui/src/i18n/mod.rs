@@ -363,6 +363,7 @@ mod tests {
             Language::Id => Some(include_str!("id.tsv")),
             Language::It => Some(include_str!("it.tsv")),
             Language::Ko => Some(include_str!("ko.tsv")),
+            Language::Lo => Some(include_str!("lo.tsv")),
         }
     }
 
